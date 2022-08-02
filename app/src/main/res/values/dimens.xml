@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <!--<dimen name="nav_header_height">176dp</dimen>-->
+    <dimen name="nav_header_height">130dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <dimen name="margin_0">0dp</dimen>
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_3">3dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_9">9dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+
+
+    <dimen name="margin_501">-2dp</dimen>
+
+
+    <dimen name="padding_18">18dp</dimen>
+
+    <dimen name="padding_0">0dp</dimen>
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="padding_7">7dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_9">9dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_17">17dp</dimen>
+    <dimen name="padding_19">19dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_35">35dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_45">45dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+
+    //================== Text Size ==================
+    <dimen name="iv_back_padding">10dp</dimen>
+    <dimen name="btn_txt_size">19sp</dimen>
+    <dimen name="toolbar_txt_size">15sp</dimen>
+    <dimen name="lable_edittext">12sp</dimen>
+    <dimen name="edittext_size">14sp</dimen>
+    <dimen name="recycler_header">18sp</dimen>
+    <dimen name="buttontext">13sp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="point_header_text_size">12sp</dimen>
+    <dimen name="tcheader_size">13sp</dimen>
+    <dimen name="tcsubinfo_size">12sp</dimen>
+    <dimen name="toolbaricon_size">24dp</dimen>
+    <dimen name="toolbartitle_size">6dp</dimen>
+    <dimen name="textinputedittext">14sp</dimen>
+    <dimen name="textinputlayoutheight">55dp</dimen>
+    <dimen name="button_height">38dp</dimen>
+
+
+    <dimen name="headerTextSize">30sp</dimen>
+
+
+    <dimen name="txt_size_6">6sp</dimen>
+    <dimen name="txt_size_7">7sp</dimen>
+    <dimen name="txt_size_8">8sp</dimen>
+    <dimen name="txt_size_9">9sp</dimen>
+    <dimen name="txt_size_10">10sp</dimen>
+    <dimen name="txt_size_11">11sp</dimen>
+    <dimen name="txt_size_12">12sp</dimen>
+    <dimen name="txt_size_13">13sp</dimen>
+    <dimen name="txt_size_14">14sp</dimen>
+    <dimen name="txt_size_15">15sp</dimen>
+    <dimen name="txt_size_16">16sp</dimen>
+    <dimen name="txt_size_17">17sp</dimen>
+    <dimen name="txt_size_18">18sp</dimen>
+    <dimen name="txt_size_19">19sp</dimen>
+    <dimen name="txt_size_20">20sp</dimen>
+    <dimen name="txt_size_21">21sp</dimen>
+    <dimen name="txt_size_22">22sp</dimen>
+    <dimen name="txt_size_23">23sp</dimen>
+    <dimen name="txt_size_24">24sp</dimen>
+    <dimen name="txt_size_25">25sp</dimen>
+</resources>
